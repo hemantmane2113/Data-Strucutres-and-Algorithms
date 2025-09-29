@@ -1,2 +1,2 @@
 # Data-Strucutres-and-Algorithms
-You can find data structures and algorithms in different programming languages
+You can find here data structures and algorithms in different programming languages
